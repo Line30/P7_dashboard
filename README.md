@@ -1,4 +1,4 @@
-# P7_dashboard
+# P7_test
 # OpenClassrooms - Projet 7 - Implémentez un modèle de scoring
 
 ## Objectives du projet :
